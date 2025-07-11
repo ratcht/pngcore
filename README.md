@@ -1,3 +1,5 @@
+*(Repository migrated from private monorepo)*
+
 # PNGCore
 
 A systems-oriented PNG processing library written in C, featuring concurrent processing, network capabilities, and shared memory support.
